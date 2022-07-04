@@ -126,4 +126,4 @@ npm run build
 
 ### License
 
-MIT
+[MIT](https://github.com/mox-hub/database-manager/blob/master/LICENSE)
